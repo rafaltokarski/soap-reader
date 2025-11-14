@@ -17,7 +17,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.1|^8.0",
-    "goetas-webservices/wsdl-reader": "^0.3|^0.4"
+    "goetas-webservices/wsdl-reader": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.0|^8.0"
